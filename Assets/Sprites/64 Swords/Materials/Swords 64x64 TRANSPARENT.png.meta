@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: 5fef94a52f1e89341b5729dd9daed719
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95012608b54e0c94ea93e0366a73ce7d
+      internalID: -1647681298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40fb8cb2c2267d43bb8811f17656c09
+      internalID: -2111371241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1e1a73a3cb3d6409b25b261d98c187
+      internalID: 787576803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e147cb9ee520b4f9bb7cd8948d4797
+      internalID: 810468735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa21c7b466e9044a8a902a962f2805e
+      internalID: -1170969283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b88b40186a8240bc4bc6b628e243a
+      internalID: 1418543922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c30d5f37d3f040a9d2feaf78782b1
+      internalID: -1334811258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b4922fe917404e9ae9615566d9f89
+      internalID: -1876964412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca15a64aa1c604048a8aecc41707aca8
+      internalID: 1778793343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5aeb676a1c70d4abba7105b30281c2
+      internalID: 750376217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb9a378620dae47a96b46f87a1ead0
+      internalID: -693783248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2069958442a56c43b90642918fe33a3
+      internalID: 883335416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27b7bca5244094d9a516f01e2dd7f8
+      internalID: -48479222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c97517d1ecab46bda009b9a544137
+      internalID: -1699730199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c7e7ccde4c904da7538ec05bf0288
+      internalID: 56422646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a1403dd50bcdf46950b631a5f5a15c
+      internalID: 561142330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd2bedfbc4c4e48bfccf4ebf62060d
+      internalID: -583658745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e4f9950723f94c9b0888f8969a891
+      internalID: 1280337311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2375e795788082489d08d6b2467d1ad
+      internalID: -1259821291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c033991613ab44cb8032f38bdd6201
+      internalID: 1907161603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2b6486664f6a4a832cc8ae51dcc14
+      internalID: 1560557331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d98e5a175097b46a82ea82da481eb4
+      internalID: -1807833359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad01c5f2597db4c9eafec053ae805e
+      internalID: -240552811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc157e655b2dc4689ea23e9939f0b8
+      internalID: 278935091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440f4e60eca34104683402504542b8c3
+      internalID: 1388309040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac59c1149350af4cb6687d78a56b8b2
+      internalID: 1072344548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee3538d54446747ad7337767f9b7ba
+      internalID: -211523044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b03707eb7a36f44949db00dd4781ca
+      internalID: 1372690911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d9fef769017024582a802fed778623
+      internalID: 34544233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93bc26f2a0a16d45911acde73b99a1c
+      internalID: -114895018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154b68972e5bc0145ae46ea46c2a03af
+      internalID: 67826072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5671e03b9c4652d4197c48d75b4cef4c
+      internalID: -1007814864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bfb8726013a57429571542cf1df324
+      internalID: 690873959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875e0ac53e80dba46a956a6ebc92412f
+      internalID: 1134045070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51318a3fa9369a40ab2c529ac0ed41c
+      internalID: 253377516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e4fc9de04b4540ad849535a716f74
+      internalID: -1199638896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b7528d0b2993c459c881caaa47ae78
+      internalID: -553872608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d492b8a6cd3a94448a1fcc31d56b532
+      internalID: -326110883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9c83e844c1f24f9a8ffa4d3697d3d
+      internalID: 1634395197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f333acedf3fcffb47ac19117f9a1794b
+      internalID: -2066062496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e7b1fc079f324dafda8d99a55a550
+      internalID: -1316234620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e50d21789a084bb5949b51cde3cdb
+      internalID: -144150993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa0f52ffd598254d979e4389508cc5f
+      internalID: 1838389415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da4f4bb1f3b334b97d24ae529c8745
+      internalID: 1355512639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7720917d4c0b540984d43342d237a0
+      internalID: -2042057813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f9e62cb2d9bfe40b969c821fe767b2
+      internalID: -921769395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_46
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b4b289c70ec64aa2741e1e576b80c
+      internalID: 1322385490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_47
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4cbf1fda674742b6eb763985878ae
+      internalID: 1007399014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855ae9111d999eb41a21e8df27ae3477
+      internalID: -225115818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492a37b7fbf97a4f9414b377ce697df
+      internalID: -794321022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a9dc5b5bf25754ab92e2d2a2806197
+      internalID: -1675012419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4219ef15095889429e38f3c1afdcf5f
+      internalID: -1725825120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f3a5ba490e094fb30e240729270b5
+      internalID: 1268771900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b81f1f9932ab498ec52076a7e439d
+      internalID: 678182673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d6ff77f4a8f1e4688178bca992cc7e
+      internalID: 932871476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c056929169044ab89218e8f66d1eb
+      internalID: 1095891456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a6aa703721c74fbfde8ef17fbbc36
+      internalID: 461807063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f782637e44c7214d956b3a87ee42a5f
+      internalID: -1322854863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd65d8cf643764f83ee98e366f4463
+      internalID: -1060224149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26766fcd3e4eb24b8a0c8b9af36d0f0
+      internalID: -1493711550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19340d6237bfe5848a4e850f76573f8f
+      internalID: -989959935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a404498fdbce4ba0686faa781e760
+      internalID: -17324182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4e4f74ef08f04cb33bf53d00e6c2e
+      internalID: -602658948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords 64x64 TRANSPARENT_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321cc93e2395e34dbc948aa9e0f13dd
+      internalID: -1568498709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swords 64x64 TRANSPARENT_0: -1647681298
+      Swords 64x64 TRANSPARENT_1: -2111371241
+      Swords 64x64 TRANSPARENT_10: -693783248
+      Swords 64x64 TRANSPARENT_11: 883335416
+      Swords 64x64 TRANSPARENT_12: -48479222
+      Swords 64x64 TRANSPARENT_13: -1699730199
+      Swords 64x64 TRANSPARENT_14: 56422646
+      Swords 64x64 TRANSPARENT_15: 561142330
+      Swords 64x64 TRANSPARENT_16: -583658745
+      Swords 64x64 TRANSPARENT_17: 1280337311
+      Swords 64x64 TRANSPARENT_18: -1259821291
+      Swords 64x64 TRANSPARENT_19: 1907161603
+      Swords 64x64 TRANSPARENT_2: 787576803
+      Swords 64x64 TRANSPARENT_20: 1560557331
+      Swords 64x64 TRANSPARENT_21: -1807833359
+      Swords 64x64 TRANSPARENT_22: -240552811
+      Swords 64x64 TRANSPARENT_23: 278935091
+      Swords 64x64 TRANSPARENT_24: 1388309040
+      Swords 64x64 TRANSPARENT_25: 1072344548
+      Swords 64x64 TRANSPARENT_26: -211523044
+      Swords 64x64 TRANSPARENT_27: 1372690911
+      Swords 64x64 TRANSPARENT_28: 34544233
+      Swords 64x64 TRANSPARENT_29: -114895018
+      Swords 64x64 TRANSPARENT_3: 810468735
+      Swords 64x64 TRANSPARENT_30: 67826072
+      Swords 64x64 TRANSPARENT_31: -1007814864
+      Swords 64x64 TRANSPARENT_32: 690873959
+      Swords 64x64 TRANSPARENT_33: 1134045070
+      Swords 64x64 TRANSPARENT_34: 253377516
+      Swords 64x64 TRANSPARENT_35: -1199638896
+      Swords 64x64 TRANSPARENT_36: -553872608
+      Swords 64x64 TRANSPARENT_37: -326110883
+      Swords 64x64 TRANSPARENT_38: 1634395197
+      Swords 64x64 TRANSPARENT_39: -2066062496
+      Swords 64x64 TRANSPARENT_4: -1170969283
+      Swords 64x64 TRANSPARENT_40: -1316234620
+      Swords 64x64 TRANSPARENT_41: -144150993
+      Swords 64x64 TRANSPARENT_42: 1838389415
+      Swords 64x64 TRANSPARENT_43: 1355512639
+      Swords 64x64 TRANSPARENT_44: -2042057813
+      Swords 64x64 TRANSPARENT_45: -921769395
+      Swords 64x64 TRANSPARENT_46: 1322385490
+      Swords 64x64 TRANSPARENT_47: 1007399014
+      Swords 64x64 TRANSPARENT_48: -225115818
+      Swords 64x64 TRANSPARENT_49: -794321022
+      Swords 64x64 TRANSPARENT_5: 1418543922
+      Swords 64x64 TRANSPARENT_50: -1675012419
+      Swords 64x64 TRANSPARENT_51: -1725825120
+      Swords 64x64 TRANSPARENT_52: 1268771900
+      Swords 64x64 TRANSPARENT_53: 678182673
+      Swords 64x64 TRANSPARENT_54: 932871476
+      Swords 64x64 TRANSPARENT_55: 1095891456
+      Swords 64x64 TRANSPARENT_56: 461807063
+      Swords 64x64 TRANSPARENT_57: -1322854863
+      Swords 64x64 TRANSPARENT_58: -1060224149
+      Swords 64x64 TRANSPARENT_59: -1493711550
+      Swords 64x64 TRANSPARENT_6: -1334811258
+      Swords 64x64 TRANSPARENT_60: -989959935
+      Swords 64x64 TRANSPARENT_61: -17324182
+      Swords 64x64 TRANSPARENT_62: -602658948
+      Swords 64x64 TRANSPARENT_63: -1568498709
+      Swords 64x64 TRANSPARENT_7: -1876964412
+      Swords 64x64 TRANSPARENT_8: 1778793343
+      Swords 64x64 TRANSPARENT_9: 750376217
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
