@@ -1,0 +1,4 @@
+repository "DailyLife_TopDown@yasouthebest@cloud"
+  path "/"
+    br "/main"
+    co "/main"
